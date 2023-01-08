@@ -662,8 +662,8 @@
     },
     {
       "path": "html_ui/Pages/A318_Core/A318_PayloadManager.js",
-      "size": 5671,
-      "date": 133167030860000000
+      "size": 5669,
+      "date": 133176487566954468
     },
     {
       "path": "html_ui/Pages/A318_Core/A318_Refuel.js",
@@ -932,8 +932,8 @@
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/A318ceoCFM/EFB/template.html",
-      "size": 5324040,
-      "date": 133174397185124989
+      "size": 5321947,
+      "date": 133176488343878574
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/A318ceoCFM/EFB/template.js",

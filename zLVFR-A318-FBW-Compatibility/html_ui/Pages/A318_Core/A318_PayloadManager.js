@@ -4,7 +4,7 @@ class A32NX_PayloadConstructor {
             rows1_6: {
                 name: 'ROWS [1-7]',
                 seats: 26,
-                weight: Math.round(NXUnits.kgToUser(3024)),
+                weight: Math.round(NXUnits.kgToUser(2184)),
                 pax: 0,
                 paxTarget: 0,
                 stationIndex: 0 + 1,
@@ -15,7 +15,7 @@ class A32NX_PayloadConstructor {
             rows7_13: {
                 name: 'ROWS [8-13]',
                 seats: 36,
-                weight: Math.round(NXUnits.kgToUser(3530)),
+                weight: Math.round(NXUnits.kgToUser(3024)),
                 pax: 0,
                 paxTarget: 0,
                 stationIndex: 1 + 1,
@@ -26,7 +26,7 @@ class A32NX_PayloadConstructor {
             rows14_21: {
                 name: 'ROWS [14-18]',
                 seats: 30,
-                weight: Math.round(NXUnits.kgToUser(3530)),
+                weight: Math.round(NXUnits.kgToUser(2520)),
                 pax: 0,
                 paxTarget: 0,
                 stationIndex: 2 + 1,
@@ -37,7 +37,7 @@ class A32NX_PayloadConstructor {
             rows22_29: {
                 name: 'ROWS [19-23]',
                 seats: 26,
-                weight: Math.round(NXUnits.kgToUser(3024)),
+                weight: Math.round(NXUnits.kgToUser(2184)),
                 pax: 0,
                 paxTarget: 0,
                 stationIndex: 3 + 1,

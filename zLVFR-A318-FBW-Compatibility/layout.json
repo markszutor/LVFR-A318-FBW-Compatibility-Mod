@@ -752,13 +752,18 @@
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/A318ceoBAW/EFB/template.html",
-      "size": 5313965,
-      "date": 133176462119728533
+      "size": 5470196,
+      "date": 133177676788448945
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/A318ceoBAW/EFB/template.js",
-      "size": 1697,
-      "date": 133167030860000000
+      "size": 1761,
+      "date": 133177676788458940
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/A318ceoBAW/EWD/template.html",
+      "size": 786779,
+      "date": 133178264697243955
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/A318ceoCFM/ATC/template.html",
@@ -1844,6 +1849,11 @@
       "path": "SimObjects/Airplanes/A318ceoCFM/ai.cfg",
       "size": 777,
       "date": 133167030860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/A318ceoCFM/aircraft.cfg",
+      "size": 8976,
+      "date": 133178397224016391
     },
     {
       "path": "SimObjects/Airplanes/A318ceoCFM/aircraft.loc",
@@ -3061,6 +3071,11 @@
       "date": 133167030860000000
     },
     {
+      "path": "SimObjects/Airplanes/A318cjCFM/aircraft.cfg",
+      "size": 9703,
+      "date": 133178396632055935
+    },
+    {
       "path": "SimObjects/Airplanes/A318cjCFM/aircraft.loc",
       "size": 16109,
       "date": 133167030860000000
@@ -3152,18 +3167,18 @@
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/model/model.CFG",
-      "size": 914,
-      "date": 133174915325321642
+      "size": 931,
+      "date": 133177677988073455
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/model.BAW/model.CFG",
-      "size": 918,
-      "date": 133174917152588711
+      "size": 935,
+      "date": 133177678073833996
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/model.MID/model.CFG",
-      "size": 918,
-      "date": 133174917152588711
+      "size": 935,
+      "date": 133177678165402854
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel/fadec.wasm",
@@ -3203,37 +3218,37 @@
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/fadec.wasm",
       "size": 595293,
-      "date": 133167030860000000
+      "date": 133177676737078113
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/fbw.wasm",
       "size": 1125023,
-      "date": 133167030860000000
+      "date": 133177676737128088
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/flypad-backend.wasm",
       "size": 628245,
-      "date": 133167030860000000
+      "date": 133177676737168072
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/module.json",
-      "size": 140,
-      "date": 133167030860000000
+      "size": 141,
+      "date": 133177676737168072
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/panel.cfg",
-      "size": 3486,
-      "date": 133174918615218726
+      "size": 3648,
+      "date": 133178401514446157
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/panel.xml",
-      "size": 2584,
-      "date": 133167030860000000
+      "size": 2708,
+      "date": 133177676737178057
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/Panel.BAW/systems.wasm",
       "size": 1059830,
-      "date": 133174410652788563
+      "date": 133177676737268020
     },
     {
       "path": "SimObjects/Airplanes/A318cjCFM/sound/FBW_A320_NEO_1.PC.PCK",
